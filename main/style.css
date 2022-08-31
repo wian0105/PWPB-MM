@@ -1,0 +1,36 @@
+.navbar {
+  height: 100px;
+  width: 1920px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #2d2d2d80;
+}
+
+.container {
+  height: 100px;
+  width: 1920px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #2d2d2d80;
+  opacity: 50%;
+}
+
+.container-fluid img {
+  height: 75px;
+  width: auto;
+  position: absolute;
+}
+
+.container-fluid h4 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+
+.collapse {
+  position: absolute;
+  right: 100px;
+  text-align: right;
+}
